@@ -1,0 +1,28 @@
+div.center-box {
+    background-color: blue;
+    display: flex;
+    flex-basis: content;
+    padding: 10%;
+}
+div.center-item {
+    background-color: yellow;
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+div {
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+ul {
+    justify-content: space-evenly;
+}
+li {
+    display: inline-flex;
+}
+a {
+    color: white;
+}
